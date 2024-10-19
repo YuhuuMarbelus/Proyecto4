@@ -1,0 +1,2 @@
+# infotec
+primer repositorio
