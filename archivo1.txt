@@ -29,3 +29,5 @@ b. Archivo2.txt  à contenido “modificación 2 archivo 2”
 13. Integra las capturas de pantalla en un solo archivo.
 
 14. Revisa que la práctica cumpla con los criterios de evaluación.
+
+1er cambio MANUEL RAMIREZ
