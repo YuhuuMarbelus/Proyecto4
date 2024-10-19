@@ -31,3 +31,4 @@ b. Archivo2.txt  à contenido “modificación 2 archivo 2”
 14. Revisa que la práctica cumpla con los criterios de evaluación.
 
 1er cambio MANUEL RAMIREZ
+2nd cambio Manuel Ramirez
