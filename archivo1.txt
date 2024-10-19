@@ -1,0 +1,31 @@
+1. Crea un repositorio local en git llamado Proyecto_4
+
+2. Crea dos archivos de texto en donde realices modificaciones:
+a. Archivo1.txt  à contenido “modificación 1 archivo 1”
+b. Archivo2.txt  à contenido “modificación 1 archivo 2”
+
+3. Aplica los tres estados de un archivo, a los archivos que creaste.
+
+4. Visualiza el historial de confirmaciones de cada archivo.
+
+5. Deshaz el cambio a cada archivo:
+a. Archivo1.txt  à contenido “modificación 2 archivo 1”
+b. Archivo2.txt  à contenido “modificación 2 archivo 2”
+
+6. Crea una cuenta en GitHub.
+
+7. Crea un repositorio en GitHub llamado Proyecto_5
+
+8. Sube un proyecto local a GitHub.
+
+9. Aplica las operaciones pull y push entre tu repositorio local y remoto.
+
+10. Crea dos etiquetas.
+
+11. Crea 3 alias de comandos en git.
+
+12. Realiza capturas de pantalla de cada uno de los incisos solicitados donde se visualice la ejecución de los comandos aplicados en esta práctica.
+
+13. Integra las capturas de pantalla en un solo archivo.
+
+14. Revisa que la práctica cumpla con los criterios de evaluación.
